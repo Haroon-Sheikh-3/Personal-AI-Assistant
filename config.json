@@ -1,0 +1,13 @@
+{
+  "research": true,
+  "browser": true,
+  "notes": true,
+  "reminders": true,
+  "file_management": true,
+  "gmail": true,
+  "calendar": true,
+  "weather": true,
+  "system_control": true,
+  "chat_history": true,
+  "location": null
+}

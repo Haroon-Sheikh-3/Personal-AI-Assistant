@@ -1,0 +1,17 @@
+# Secrets - never commit these
+.env
+credentials.json
+token.json
+
+# Local/personal data
+chat_logs/
+reminders.json
+priority_sender.json
+last_email_check.json
+notes.txt
+research_output.txt
+
+# Python
+venv/
+__pycache__/
+*.pyc

@@ -1,0 +1,28 @@
+# Core agent
+langchain>=1.0
+langchain-core
+langchain-community
+langchain-groq
+langchain-google-genai
+langchain-tavily
+pydantic
+python-dotenv
+wikipedia
+requests
+
+# Reminders / notifications / files
+dateparser
+plyer
+send2trash
+fuzzywuzzy
+
+# Gmail + Calendar
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+
+# System control (Windows)
+pycaw
+comtypes
+screen-brightness-control
+psutil
